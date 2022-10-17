@@ -19,7 +19,7 @@ require (
 	github.com/savsgio/gotils v0.0.0-20220530130905-52f3993e8d6d
 	github.com/spf13/cobra v1.5.0
 	github.com/stretchr/testify v1.8.0
-	github.com/vifraa/gopom v0.2.0
+	github.com/vifraa/gopom v0.2.1
 	github.com/whilp/git-urls v1.0.0
 	github.com/wk8/go-ordered-map/v2 v2.0.0
 	go.uber.org/zap v1.21.0
